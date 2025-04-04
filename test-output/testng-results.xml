@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-04T20:46:19 CEST" name="Suite" finished-at="2025-04-04T20:46:24 CEST" duration-ms="5185">
+    <groups>
+    </groups>
+    <test started-at="2025-04-04T20:46:19 CEST" name="Test" finished-at="2025-04-04T20:46:24 CEST" duration-ms="5185">
+      <class name="com.todos.tests.AddTodosTest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.todos.tests.AddTodosTest@1d2adfbe]" started-at="2025-04-04T20:46:19 CEST" name="setupTest" finished-at="2025-04-04T20:46:24 CEST" duration-ms="4958" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="iAddToDo()[pri:0, instance:com.todos.tests.AddTodosTest@1d2adfbe]" started-at="2025-04-04T20:46:24 CEST" name="iAddToDo" finished-at="2025-04-04T20:46:24 CEST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iAddToDo -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.todos.tests.AddTodosTest@1d2adfbe]" started-at="2025-04-04T20:46:24 CEST" name="teardown" finished-at="2025-04-04T20:46:24 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.todos.tests.AddTodosTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
